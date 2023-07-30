@@ -1,0 +1,10 @@
+{
+  "name": "85d92ec6-33b8-495a-a2c3-a86f3c1982f7",
+  "displayName": "faq.cabin.limits",
+  "parameters": [ {
+    "id": "number",
+    "entityType": "@sys.number"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 5
+}

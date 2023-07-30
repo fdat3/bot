@@ -1,0 +1,10 @@
+{
+  "name": "71e66eee-7212-44fd-9f57-af68461ae480",
+  "displayName": "faq.miles.upgrade",
+  "parameters": [ {
+    "id": "ordinal",
+    "entityType": "@sys.ordinal"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 5
+}

@@ -1,0 +1,10 @@
+{
+  "name": "f0601d2e-3598-4b7a-a488-18d0f3188dea",
+  "displayName": "user.request.repeat",
+  "parameters": [ {
+    "id": "pnr_number",
+    "entityType": "@PNR_Number"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 4
+}

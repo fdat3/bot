@@ -1,0 +1,29 @@
+{
+  "name": "14414db4-9d50-42c1-8b9c-ee0777c68d81",
+  "displayName": "Check flight status",
+  "form": {
+    "parameters": [ {
+      "displayName": "pnr_num",
+      "required": true,
+      "entityType": "@PNR_Number",
+      "fillBehavior": {
+        "initialPromptFulfillment": {
+          "messages": [ {
+            "text": {
+              "text": [ "What is your flight booking reference please?" ]
+            },
+            "languageCode": "en"
+          } ]
+        }
+      }
+    } ]
+  },
+  "transitionRoutes": [ {
+    "condition": "$page.params.status = FINAL",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "Confirm fight status",
+    "name": "f445bcc8-5892-49b6-9847-505f03e662d4"
+  } ]
+}
