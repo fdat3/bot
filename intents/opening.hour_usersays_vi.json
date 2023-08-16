@@ -1,0 +1,54 @@
+[
+  {
+    "id": "da198ac7-ec43-41b1-8afd-c8bdd33c912c",
+    "data": [
+      {
+        "text": "Khi nào cửa hàng đóng cửa ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  },
+  {
+    "id": "008f92a0-078d-4ce9-b2bd-a767ad9c530e",
+    "data": [
+      {
+        "text": "Cửa hàng có mở cửa vào hôm nay không ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  },
+  {
+    "id": "504a19a2-7846-460e-a9aa-697279a75661",
+    "data": [
+      {
+        "text": "Cửa hàng có đang mở cừa vào lúc này không ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  },
+  {
+    "id": "d0d9100d-c8b5-4759-8a80-49cc58794ab3",
+    "data": [
+      {
+        "text": "Giờ mở cửa của cửa hàng là vào mấy giờ ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  }
+]

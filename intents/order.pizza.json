@@ -1,0 +1,98 @@
+{
+  "id": "a49e8ec3-b3f0-4a6e-afd8-00c5ed5477b7",
+  "name": "order.pizza",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "13fb5af2-fb9a-48e5-999b-0c192ecf3f48",
+          "name": "size",
+          "required": true,
+          "dataType": "@size",
+          "value": "$size",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "vi",
+              "value": "Hãy cho chúng tôi biết kích cỡ của pizza mà bạn chọn ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "32ee40d5-0f92-4e29-9224-1db2289110b6",
+          "name": "topping",
+          "required": false,
+          "dataType": "@topping",
+          "value": "$topping",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1d41125c-eea7-4513-80b4-129c8efcaf7f",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f73c4f70-9ec3-4e29-bfae-92eb2f283d63",
+          "name": "milk_type",
+          "required": false,
+          "dataType": "@milk_type",
+          "value": "$milk_type",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "vi",
+          "speech": [
+            "Bạn đã đặt pizza cỡ $size với topping: $topping ! Đơn sẽ được giao trong $date-time tới !"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

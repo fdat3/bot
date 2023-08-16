@@ -1,0 +1,250 @@
+[
+  {
+    "id": "dc32ebdc-7998-4893-a1c2-59404923d84f",
+    "data": [
+      {
+        "text": "Tôi muốn một trà sữa ",
+        "userDefined": false
+      },
+      {
+        "text": "50% ngọt",
+        "meta": "@milk_type",
+        "alias": "milk_type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  },
+  {
+    "id": "d4f9f94e-e940-497a-8d4f-499caf390aec",
+    "data": [
+      {
+        "text": "Tôi muốn một trà sữa cỡ ",
+        "userDefined": false
+      },
+      {
+        "text": "lớn",
+        "meta": "@size",
+        "alias": "size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ngọt vừa",
+        "meta": "@milk_type",
+        "alias": "milk_type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  },
+  {
+    "id": "dfe90bb6-b5bb-495a-88d8-cf5bfee5e132",
+    "data": [
+      {
+        "text": "Tôi muốn một pizza cỡ ",
+        "userDefined": false
+      },
+      {
+        "text": "lớn",
+        "meta": "@size",
+        "alias": "size",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  },
+  {
+    "id": "522c8edc-6b12-43c1-bf89-3b2ae4992d07",
+    "data": [
+      {
+        "text": "Tôi muốn một pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "gà",
+        "meta": "@topping",
+        "alias": "topping",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  },
+  {
+    "id": "08a0876a-503b-4a5d-93a9-b751cb195c2b",
+    "data": [
+      {
+        "text": "Tôi muốn đặt một chiếc pizza trong ",
+        "userDefined": false
+      },
+      {
+        "text": "1 giờ tới",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  },
+  {
+    "id": "961076e8-f80a-4a75-9792-3f37767effbc",
+    "data": [
+      {
+        "text": "Tôi muốn một chiếc pizza với ",
+        "userDefined": false
+      },
+      {
+        "text": "tiêu",
+        "meta": "@topping",
+        "alias": "topping",
+        "userDefined": true
+      },
+      {
+        "text": " và ",
+        "userDefined": false
+      },
+      {
+        "text": "nấm",
+        "meta": "@topping",
+        "alias": "topping",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  },
+  {
+    "id": "4c6bc987-1b13-4e0d-bfe2-a31e9ef082f7",
+    "data": [
+      {
+        "text": "Tôi muốn một chiếc pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "nhỏ",
+        "meta": "@size",
+        "alias": "size",
+        "userDefined": true
+      },
+      {
+        "text": " với ",
+        "userDefined": false
+      },
+      {
+        "text": "nấm",
+        "meta": "@topping",
+        "alias": "topping",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  },
+  {
+    "id": "06545669-2ee5-4a63-8562-d34bc5341c35",
+    "data": [
+      {
+        "text": "Tôi muốn đặt một chiếc pizza cỡ ",
+        "userDefined": false
+      },
+      {
+        "text": "nhỏ",
+        "meta": "@size",
+        "alias": "size",
+        "userDefined": true
+      },
+      {
+        "text": ", chỉ có thịt ",
+        "userDefined": false
+      },
+      {
+        "text": "gà",
+        "meta": "@topping",
+        "alias": "topping",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  },
+  {
+    "id": "6a48f8dd-c307-4044-923d-3b648b668772",
+    "data": [
+      {
+        "text": "Tôi muốn đặt một chiếc pizza vào lúc ",
+        "userDefined": false
+      },
+      {
+        "text": "1g chiều nay",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  },
+  {
+    "id": "69049791-c682-4cfe-8c3f-55a6300125bd",
+    "data": [
+      {
+        "text": "Tôi có thể đặt một pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "phô mai",
+        "meta": "@topping",
+        "alias": "topping",
+        "userDefined": true
+      },
+      {
+        "text": " cho buổi trưa hôm nay không ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  }
+]

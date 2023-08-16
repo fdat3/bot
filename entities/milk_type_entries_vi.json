@@ -1,0 +1,36 @@
+[
+  {
+    "value": "ngọt",
+    "synonyms": [
+      "ngọt",
+      "100% đường"
+    ]
+  },
+  {
+    "value": "ngọt vừa",
+    "synonyms": [
+      "ngọt vừa",
+      "75% đường"
+    ]
+  },
+  {
+    "value": "bình thường",
+    "synonyms": [
+      "bình thường"
+    ]
+  },
+  {
+    "value": "ít béo",
+    "synonyms": [
+      "ít béo",
+      "50% đường"
+    ]
+  },
+  {
+    "value": "không đường",
+    "synonyms": [
+      "không đường",
+      "0% đường"
+    ]
+  }
+]
